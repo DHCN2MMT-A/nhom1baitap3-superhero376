@@ -68,8 +68,10 @@ text-decoration: none;
 padding: 5px;
 
 }
-.interesting{
+.interesting li{
 	color: blue;
+	font-family: great vibes;
+	font-size: 20px;
 }
 .interesting h3{
 	color: blue;
